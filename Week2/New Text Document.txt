@@ -1,0 +1,22 @@
+notes for this assignment 
+make single responsive page for desktop tablet and mobile 
+
+include css code in external file only into css folder under solution container 
+
+dont user any framework refer till lec 24 given!
+
+desktop site when browser window is 992px and above 
+tabled view only in between 768px and 991px
+mobile view should appear only is =< 767px
+
+
+page desc: page heading and 3 section 
+
+all in single row or desktop view 
+add any content or text in 
+hint user media quieirs lec 23
+
+
+desktop view 992 px and above
+ (Hint: use percentages to define width and use the 'float' property. See Lecture 24)
+
